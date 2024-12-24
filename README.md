@@ -1,1 +1,1 @@
-# Python-ile-Makine-grenmesi
+# Python-ile-Makine-ogrenmesi
